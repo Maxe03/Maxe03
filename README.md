@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matt Alexius</h1>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e23aadad-3b5a-4d71-9994-159a9d079cd6" alt="Matt Alexius" />
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **HYDE**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Blockchain** **, Blockchain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

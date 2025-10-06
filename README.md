@@ -1,4 +1,7 @@
-## Hi there 👋
+
+
+![Alt text](<img width="736" height="413" alt="image" src="https://github.com/user-attachments/assets/060aaa77-7ca7-4ac8-b6e6-b617377b4611" />
+)
 
 <!--
 **Maxe03/Maxe03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

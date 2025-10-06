@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matt Alexius</h1>
 
-![Image](https://github.com/user-attachments/assets/e23aadad-3b5a-4d71-9994-159a9d079cd6)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e23aadad-3b5a-4d71-9994-159a9d079cd6" alt="Matt Alexius" />
+</p>
+
 
 
 <h3 align="center">A passionate full stack developer from Cebu City, Philippines.</h3>

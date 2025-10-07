@@ -1,4 +1,4 @@
-
+![Snake animation](https://github.com/Maxe03/Maxe03/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e23aadad-3b5a-4d71-9994-159a9d079cd6" alt="Matt Alexius" />

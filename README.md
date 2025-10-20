@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_GIF_URL_HERE" alt="Matt Alexius" width="200"/>
+  <img src="https://github.com/user-attachments/assets/af6a57fc-3d03-42b2-ae66-8cc4e3f202a8" alt="Matt Alexius" width="200"/>
   
   # Matt Alexius / Maxe
   
@@ -11,7 +11,7 @@
   
   ### Aspiring Software Engineer
   
-  A passionate full stack developer from Cebu City, Philippines.
+  A passionate full stack developer from Cebu City, Philippines, specializing in building modern web and mobile applications. I love turning ideas into reality through clean code and intuitive design. Currently exploring the intersection of AI/ML and web development while continuously expanding my tech stack.
   
 </div>
 

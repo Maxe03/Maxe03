@@ -3,7 +3,7 @@
   
   # Matt Alexius / Maxe
   
-  **Portfolio:** [mattalexius.dev](https://mattalexius.dev)
+  **Portfolio:** <a href="https://mattalexius.dev" target="_blank">mattalexius.dev</a>
   
 </div>
 

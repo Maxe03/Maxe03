@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/af6a57fc-3d03-42b2-ae66-8cc4e3f202a8" alt="Matt Alexius" width="200"/>
+  <img src="https://github.com/user-attachments/assets/af6a57fc-3d03-42b2-ae66-8cc4e3f202a8" alt="Matt Alexius" width="500"/>
   
   # Matt Alexius / Maxe
   
